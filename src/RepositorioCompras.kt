@@ -1,0 +1,7 @@
+
+
+class RepositorioCompras() {
+
+    fun agregarCompra()
+
+}
